@@ -190,6 +190,8 @@ Here is the link to my blog post: [CV - CNN with Transfer Learning for Multi-Lab
 If this repository/publication helped you, you are welcome to read other blog posts I wrote on the topic of Computer Vision:
 
 + [Classification of Dog-Breeds using a pre-trained CNN model](https://michael-fuchs-python.netlify.app/2021/01/27/classification-of-dog-breeds-using-a-pre-trained-cnn-model/)
++ [CNN with TFL and Fine-Tuning for Multi-Label Classification](https://michael-fuchs-python.netlify.app/2021/01/24/cv-cnn-with-tfl-and-fine-tuning-for-multi-label-classification/)
++ [CNN with TFL and Fine-Tuning](https://michael-fuchs-python.netlify.app/2021/01/22/cv-cnn-with-tfl-and-fine-tuning/)
 + [CNN with Transfer Learning](https://michael-fuchs-python.netlify.app/2021/01/17/computer-vision-cnn-with-transfer-learning/)
 + [CNN for Multi-Label Classification](https://michael-fuchs-python.netlify.app/2021/01/15/computer-vision-cnn-for-multi-label-classification/)
 + [Convolutional Neural Network](https://michael-fuchs-python.netlify.app/2021/01/08/computer-vision-convolutional-neural-network/)
@@ -218,5 +220,7 @@ I also publish individual interesting sections from my publications in separate 
 <a name="references"></a>
 
 ## References
+
+The content of the entire Repository was created using the following sources:
 
 Chollet, F. (2018). Deep learning with Python (Vol. 361). New York: Manning.
